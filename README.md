@@ -11,7 +11,7 @@ SlackからエクスポートしたJSONファイルをDiscordへインポート�
 - [Bot導入手法](https://discordpy.readthedocs.io/ja/latest/discord.html)のサイトを参考にBotを作成し、自身のサーバに招待する。
   - どの権限が必須かを検証できていないため、多めに権限を付与しておく方が良い
   - 招待方法はURLを作成後、そのURLをブラウザに打ち込めば、招待画面が現れる。
--
+
 ### 実行環境構築と実行方法
 1. ```git clone git@github.com:sepapple/Slack2Discord.git```で、ディレクトリをローカル環境にclone
 2. ```python3 -m venv <dir-path>/```による仮想環境の構築
